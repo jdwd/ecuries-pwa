@@ -7,7 +7,8 @@ planning des prestations, inscriptions, gestion des crédits, demandes à la car
 
 https://jdwd.github.io/ecuries-pwa/
 
-Déploiement automatique à chaque push sur `main` (GitHub Actions).
+Site statique compilé (données fictives) — déploiement automatique à chaque push sur `main` (GitHub Actions).
+Relance manuelle possible : onglet **Actions** → workflow *Deploy to GitHub Pages* → **Run workflow**.
 
 ## 🚀 Lancer le projet en local
 
