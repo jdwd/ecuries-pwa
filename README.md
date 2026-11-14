@@ -3,7 +3,13 @@
 Prototype React de la PWA mobile de gestion d'une écurie de propriétaires :
 planning des prestations, inscriptions, gestion des crédits, demandes à la carte et espace gérant.
 
-## 🚀 Lancer le projet
+## 🌐 Version en ligne
+
+https://jdwd.github.io/ecuries-pwa/
+
+Déploiement automatique à chaque push sur `main` (GitHub Actions).
+
+## 🚀 Lancer le projet en local
 
     npm install
     npm run dev
